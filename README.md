@@ -37,3 +37,14 @@ Suppose we have a file and we want to read this file. And perform typical tasks 
     a.insert(lowercase,0);
     a.insert(readfile,1);
 ```
+
+In this case, when we run the exe_sequence() method, we will wait for the following behavior:
+
+```cpp
+Executing: readfile
+Executing: lowercase
+Executing: removeSpaces
+Executing: uppercase
+Executing: deletefile
+Executing: statistics
+```
