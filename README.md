@@ -5,22 +5,22 @@ This code was created to test the suitability of a row with ordered insertion ac
 This code has a class class that offers the following methods
 
 The ``insert method`` Receive as a parameter a pointer to a function of type void and that does not receive arguments like that, as well as the priority of the element.
-```c
+```cpp
 insert(void (*item)(void), const int priority);
 ```
 
 The ``checkEmpty method``. Check if the list is empty,
-```c
+```cpp
 checkEmpty(void) const;
 ```
 
 The ``exe_sequence_loop method``. This method executes in sequence all the functions stored in the list in loop.
-```c
+```cpp
 exe_sequence_loop() const;
 ```
 
 The ``exe_sequence method``. This method executes in sequence all the functions stored in the list. The difference with the previous method is that this one only executes the list once.
-```c
+```cpp
 exe_sequence_loop() const;
 ```
 
