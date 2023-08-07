@@ -49,7 +49,7 @@ Executing: deletefile
 Executing: statistics
 ```
 
-Using a ``.txt`` file to prove with the name ``note``. Whose content is the string ``Hello world 2023``. We have the following results:
+Using a ``.txt`` file to prove with the name ``note``. Whose content is the string ``Hello world 22023``. We have the following results:
 
 ![Captura de Ecrã](https://github.com/AguilaDavid/priority_queue/assets/125582704/2106a7fe-6fa7-43db-946e-a4812239a439)
 
