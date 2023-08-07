@@ -51,6 +51,6 @@ Executing: statistics
 
 Using a ``.txt`` file to prove with the name ``note``. Whose content is the string ``Hello world 2023``. We have the following results:
 
-![Captura de Ecrã (2387)](https://github.com/AguilaDavid/priority_queue/assets/125582704/b28cd653-87a0-4da7-b93b-09471c76cfa5)
+![Captura de Ecrã](https://github.com/AguilaDavid/priority_queue/assets/125582704/2106a7fe-6fa7-43db-946e-a4812239a439)
 
 As expected, we first run the read file function. After getting the whole string, all the characters are passed to lowercase and the spacing is removed. Then the characters are converted to lower case and the resulting string is parsed. As expected all characters are in uppercase and there are no spaces.
